@@ -10,11 +10,6 @@ package chatservidor;
  * @author Felip
  */
 
-//
-// BASE
-// https://carlosdanieldrury.wordpress.com/2013/08/26/chat-feito-com-rmi-utilizando-java-threads-para-leitura-de-mensagens-no-servidor/
-//
-
 
 import java.net.MalformedURLException;
 import java.rmi.Naming;
